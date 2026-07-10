@@ -1,0 +1,32 @@
+body {
+
+    background-color: black;
+}
+
+h1 {
+
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img[src="./assets/images/man.jpg"] {
+
+    border: 5px solid white;
+    width: 100%;
+}
+
+p {
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+div {
+
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
